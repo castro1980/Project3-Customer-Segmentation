@@ -1,0 +1,4 @@
+"segment","customers","predicted_return_rate","value_measure","marketing_action","allocation","percent_budget","justification"
+"High-Value Loyal Customers",107,0.999999997320062,4966.55999999996,"Recognition, early access, personalized cross-sell",250000,0.25,"Balances value protection, churn risk, growth potential, and contact cost."
+"Middle-Value Growth Customers",430,0.993023250157895,2352.565,"A/B-test bundles, cross-sell, and moderate incentives",4e+05,0.4,"Balances value protection, churn risk, growth potential, and contact cost."
+"Recently Lapsed / At-Risk Customers",264,1,1031.81,"Low-cost win-back test with response measurement",250000,0.25,"Balances value protection, churn risk, growth potential, and contact cost."
